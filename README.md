@@ -1,5 +1,3 @@
-Sure, here's a draft README file for the Mathematica code:
-
 # Matrix Invariant Relations
 
 This Mathematica notebook explores algebraic relations between matrix invariants built from combinations of Yukawa coupling matrices and a "spurion" matrix in the context of some theoretical physics model.
