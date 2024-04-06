@@ -1,4 +1,4 @@
-# Yukawa Invariants Generator
+# Invariants Generator
 
 This Python script generates invariants built out of Yukawa matrices and one instance of a SMEFT dimension-6 coefficient up to a specified degree. Then it checks if, at the chosen degree, there exists a relation between them\
 
@@ -72,6 +72,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback, please feel free to reach out to Emanuele Gendy (mailto:emanuele.gendy@gmail.com).
-
-```
-}
