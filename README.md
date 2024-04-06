@@ -26,8 +26,8 @@ To install `TensorSimplify`, run the following command in Mathematica:
 PacletInstall[
     "TensorSimplify", 
     "Site" -> "http://raw.githubusercontent.com/carlwoll/TensorSimplify/master"
-]```
-
+]
+```
 Once installed, you can load the paclet as usual:
 <<TensorSimplify`
 
