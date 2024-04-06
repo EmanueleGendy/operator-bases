@@ -1,18 +1,16 @@
 # Matrix Invariant Relations
 
-This Mathematica notebook explores algebraic relations between matrix invariants built from combinations of Yukawa coupling matrices and a "spurion" matrix in the context of some theoretical physics model.
+This Mathematica notebook explores algebraic relations between matrix invariants built from combinations of Yukawa coupling matrices and a "spurion" matrix in the context of SMEFT at dimension-6. It has to be understood as the notebook accompanying Appendix B.4 of arXiv:2112.03889.
 
 ## Description
 
 The code performs the following main tasks:
 
-1. Defines assumptions and rules for manipulating matrix expressions.
-2. Generates various types of random matrices for testing purposes.
-3. Constructs independent invariant traces built solely from Yukawa matrices up to a specified dimension.
-4. Constructs invariant traces linear in the spurion matrix by combining Yukawa invariants with powers of the spurion.
-5. Combines these two sets of invariants into products such that their total dimension adds up to a specified value.
-6. Finds linear relations among these product invariants by solving for coefficient vectors that make their linear combinations vanish.
-7. Displays the derived linear relations between the invariant traces.
+1. Constructs independent invariant traces built solely from Yukawa matrices up to a specified dimension.
+2. Constructs invariant traces linear in the spurion matrix by combining Yukawa invariants with powers of the spurion.
+3. Combines these two sets of invariants into products such that their total dimension adds up to a specified value.
+4. Finds linear relations among these product invariants by solving for coefficient vectors that make their linear combinations vanish.
+5. Displays the derived linear relations between the invariant traces.
 
 ## Prerequisites
 
@@ -43,9 +41,10 @@ Once installed, you can load the paclet as usual:
 
 ## Notes
 
-- This code is intended for exploring theoretical physics concepts and may require knowledge of the underlying model and context for full interpretation.
+- This code is intended for exploring theoretical physics concepts and may require knowledge of the underlying model and context for full interpretation (see arXiv:2112.03889
+for more details).
 - The code currently lacks user input/output handling and error checking, making it more suitable for personal use or reference.
-- Contributions to improve documentation, user-friendliness, and code quality are welcome.
+- Contributions to improve documentation, user-friendliness, and code quality are welcome. Please send any suggestions to emanuele.gendy@gmail.com .
 
 ## License
 
