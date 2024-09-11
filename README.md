@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 # Invariants Generator
 
-This Python script generates invariants built out of Yukawa matrices and one instance of a SMEFT dimension-6 coefficient up to a specified degree. Then it checks if, at the chosen degree, there exists a relation between them\
+This repo contains scripts in both Python and Mathematica to generate invariants built out of Yukawa matrices and one instance of a SMEFT dimension-6 coefficient up to a specified degree. Then it checks if, at the chosen degree, there exists a relation between them
+
+# Python Notebook
 
 ## Features
 
@@ -73,8 +74,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback, please feel free to reach out to Emanuele Gendy (mailto:emanuele.gendy@gmail.com).
+
 =======
-# Matrix Invariant Relations
+
+# Mathematica Notebook
 
 This Mathematica notebook explores algebraic relations between matrix invariants built from combinations of Yukawa coupling matrices and a "spurion" matrix in the context of SMEFT at dimension-6. It has to be understood as the notebook accompanying Appendix B.4 of arXiv:2112.03889.
 
@@ -125,4 +128,3 @@ for more details).
 ## License
 
 This code is released under the [MIT License](LICENSE).
->>>>>>> second-repo/main
